@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 
 //test the second update using github
+//Third test for update and commit using github
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
